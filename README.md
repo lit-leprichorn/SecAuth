@@ -11,3 +11,4 @@ logs if you cause an error by saying something random on the "would you like to 
 logs if you get your 2FA code wrong.
 logging of succesful user signing in, along with names and timestamps.
 and alot of random comments
+i also plan on making a super user account with a built in dev pannel.
